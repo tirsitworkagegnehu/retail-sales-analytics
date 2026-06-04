@@ -1,4 +1,4 @@
-ShopMart Retail Analytics Project (Excel + SQL + Power BI)
+ShopMart Retail Analytics Project (SQL + Power BI)
 Project Overview
 This project focuses on transforming a raw retail dataset into a clean, structured, and analysis-ready dataset using SQL, followed by building interactive dashboards in Power BI.
 The dataset contained duplicate records, inconsistent categorical values, missing data, and invalid numeric entries. The goal was to build a reliable dataset for business intelligence and customer analytics.
